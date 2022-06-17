@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm INTP-T, I play the oboe, and my pronouns are he/him.
+I'm ISTP-T, I play the oboe, and my pronouns are he/him.
 
 Windows 10, 32 GB RAM, i7-10700F, RTX 2060
 
