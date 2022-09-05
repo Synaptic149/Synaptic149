@@ -1,6 +1,6 @@
 ### Hello
 
-I'm ISTP-T, this is placeholder text and my pronouns are he/him.
+I'm ISTP-T, I'm in high school and my pronouns are he/him.
 
 You can find my other profiles at https://synaptic149.carrd.co/
 
