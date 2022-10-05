@@ -1,4 +1,4 @@
-### Hello
+### Hello!
 
 I'm ISTP-T, I'm in high school and my pronouns are he/him.
 
