@@ -1,7 +1,5 @@
 ### Hello!
 
-I'm ISFP-T, I'm in high school and my pronouns are he/him.
+I occasionally come on GitHub when I notice there's something wrong with some existing software :) 
 
-You can find my other profiles at https://synaptic149.carrd.co/
-
-Windows 11, 32 GB RAM, i7-10700F, RTX 2060
+I might make some new open-source software in the future 🤞🏽
